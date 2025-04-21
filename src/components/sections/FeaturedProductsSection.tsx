@@ -1,4 +1,3 @@
-// src/components/sections/FeaturedProductsSection.tsx
 import { Box, Heading, Text, SimpleGrid, Button, VStack } from '@chakra-ui/react';
 import { Link as RouterLink } from 'react-router-dom';
 import ProductCard from '../common/ProductCard';

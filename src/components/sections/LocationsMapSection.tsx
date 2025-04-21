@@ -1,4 +1,3 @@
-// src/components/sections/LocationsMapSection.tsx
 import { Box, Heading, Text, SimpleGrid, VStack, Flex, Icon } from '@chakra-ui/react';
 import { PhoneIcon, TimeIcon } from '@chakra-ui/icons';
 import { FaMapMarkerAlt } from 'react-icons/fa';

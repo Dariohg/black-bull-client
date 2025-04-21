@@ -1,4 +1,3 @@
-// src/components/common/HaircutCard.tsx
 import { Box, Image, Text, Flex, Badge, VStack, Button } from '@chakra-ui/react';
 import { Haircut } from '../../types';
 

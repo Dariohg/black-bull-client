@@ -1,4 +1,3 @@
-// src/styles/theme.ts
 import { extendTheme, type ThemeConfig } from '@chakra-ui/react'
 
 const config: ThemeConfig = {

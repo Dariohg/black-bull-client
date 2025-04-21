@@ -3,6 +3,7 @@ import HeroSection from '../components/sections/HeroSection';
 import FeaturedHaircutsSection from '../components/sections/FeaturedHaircutsSection';
 import FeaturedProductsSection from '../components/sections/FeaturedProductsSection';
 import LocationsMapSection from '../components/sections/LocationsMapSection';
+import React from "react";
 
 const HomePage: React.FC = () => {
     return (

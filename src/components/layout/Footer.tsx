@@ -1,4 +1,3 @@
-// src/components/layout/Footer.tsx
 import {
     Box,
     Container,
